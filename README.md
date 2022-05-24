@@ -6,10 +6,18 @@
 <p>
   <em>
 ---
-#### I am highly motivated person,always willing to learn new skills. seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions. 
-:man_technologist:I`m currently student in Softni. 
+I am highly motivated person,always willing to learn new skills. seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions. 
+<!-- :man_technologist:I`m currently student in Softni. 
 :trophy:Next step Python Full Stack Web Developer.
-:heart_eyes: Interested in digital marketing, e-commerce.
+:heart_eyes: Interested in digital marketing, e-commerce. -->
+   
+- :man_technologist: I`m currently student in **Softni**
+
+- :heart_eyes: Interested in **Digital marketing, E-commerce**
+
+- 🌱 Currently learning **JS**
+
+- :trophy: Next step **Python Full Stack Web Developer**
 
 
 <!-- <h3 align="left">Connect with me:</h3>
