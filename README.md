@@ -1,9 +1,9 @@
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
 </div> -->
-<div id="header" align="center">
+
 ## Hi, I'm Rado <img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/Hi.gif" width="30px"></h2>
-</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
