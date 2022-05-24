@@ -2,13 +2,15 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
 </div> -->
 
-#№№ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world! I'm Rado&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world! I'm Rado&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <p>
   <em>
 ---
-#### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
+#### I am highly motivated person,always willing to learn new skills. seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions. 
+:man_technologist:I`m currently student in Softni. 
+:trophy:Next step Python Full Stack Web Developer.
+:heart_eyes: Interested in digital marketing, e-commerce.
 
-### :man_technologist: About Me :
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
