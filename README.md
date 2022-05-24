@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Hadzhiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Hadzhiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadzhieV777&hide=contribs,prs)
 <!--
 **HadzhieV777/HadzhieV777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
