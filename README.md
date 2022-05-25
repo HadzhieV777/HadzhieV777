@@ -31,7 +31,9 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
    
-   
+   <div id="header" align="center">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
+</div>
 
 <h3 align="left">:mailbox_with_mail: Connect with me:</h3>
 <p align="left">
