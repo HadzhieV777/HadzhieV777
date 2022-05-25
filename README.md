@@ -7,7 +7,7 @@
 :trophy:Next step Python Full Stack Web Developer.
 :heart_eyes: Interested in digital marketing, e-commerce. -->
    
-- :man_technologist: I`m currently student at **SoftUni**
+- :man_technologist: I`m currently a student at **SoftUni**
     
  - :trophy: Next step **Python Full Stack Web Developer**
     
