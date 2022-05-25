@@ -14,7 +14,7 @@
     
  - :trophy: Next step **Python Full Stack Web Developer**
 
-- :heart_eyes: Interested in **Digital marketing, E-commerce**
+- :heart_eyes: Interested in **Digital marketing, E-commerce, Real Estates**
 
 
 
