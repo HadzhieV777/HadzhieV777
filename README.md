@@ -10,6 +10,8 @@
 - :man_technologist: I`m currently student at **SoftUni**
     
  - :trophy: Next step **Python Full Stack Web Developer**
+    
+ - :eyes: Looking to collaborate on **Web app projects**
 
 - :heart_eyes: Interested in **Digital marketing, E-commerce, Real Estates**
 
