@@ -33,8 +33,7 @@
    
    
 
-<h3 align="left">
-   <img src="https://media.giphy.com/media/OpBA2nKQog7LENz8Of/giphy.gif" width="50"/>Connect with me:</h3>
+<h3 align="left">:mailbox_with_mail: Connect with me:</h3>
 <p align="left">
 </p>
 
