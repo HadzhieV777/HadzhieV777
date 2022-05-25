@@ -14,7 +14,7 @@
 - :heart_eyes: Interested in **Digital marketing, E-commerce, Real Estates**
 
 
-<h3 align="center"><img src="https://e1.pngegg.com/pngimages/38/630/png-clipart-minecraft-diamond-pickaxe-minecraft-diamond-axe-thumbnail.png" width="25"/>  Languages and Tools:</h3>     
+### <h3 align="center"><img src="https://e1.pngegg.com/pngimages/38/630/png-clipart-minecraft-diamond-pickaxe-minecraft-diamond-axe-thumbnail.png" width="25"/>  Languages and Tools:</h3>     
     
    <div id="header" align="center"><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
          
@@ -31,7 +31,7 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="center">:mailbox_with_mail: Connect with me:</h3>
+### <h3 align="center">:mailbox_with_mail: Connect with me:</h3>
 <p align="left">
 </p>
    
