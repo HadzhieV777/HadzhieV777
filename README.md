@@ -11,9 +11,9 @@
     
  - :trophy: Next step **Python Full Stack Web Developer**
     
- - :eyes: Looking to collaborate on **Web app projects**
+ - :eyes: Looking to collaborate on **Web App Projects**
 
-- :heart_eyes: Interested in **Digital marketing, E-commerce, Real Estates**
+- :heart_eyes: Interested in **Digital Marketing, E-commerce, Real Estates**
 
 
 ### <h3 align="center"><img src="https://e1.pngegg.com/pngimages/38/630/png-clipart-minecraft-diamond-pickaxe-minecraft-diamond-axe-thumbnail.png" width="25"/>  Languages and Tools:</h3>     
