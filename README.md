@@ -32,7 +32,10 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
      </a>  
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+  
 </p>
 <div align="center"> <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadzhiev777&show_icons=true&locale=en&layout=compact" alt="hadzhiev777" /></p></div>
 
@@ -49,8 +52,6 @@
 <a href="https://instagram.com/bdw42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bdw42" height="30" width="40" /></a>
 </p>
 </div>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hadzhiev777&label=Profile%20views&color=0e75b6&style=flat" alt="hadzhiev777" /> </p>
 
 
 <!-- **HadzhieV777/HadzhieV777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
