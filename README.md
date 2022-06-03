@@ -62,9 +62,10 @@
 <a href="https://linkedin.com/in/radoslav-hadzhiev-077ba5205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radoslav-hadzhiev-077ba5205" height="30" width="40" /></a>
 <a href="https://fb.com/rado.play" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rado.play" height="30" width="40" /></a>
 <a href="https://instagram.com/bdw42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bdw42" height="30" width="40" /></a>
-<a href="https://discord.gg/1120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1120" height="30" width="40" /></a>
-     </p>
-</div>
-
+</p>
+     <p align="center>
+    And my email **r.hadzhiev4277@gmail.com** 
+</p>
+               </div>
 
 <!-- **HadzhieV777/HadzhieV777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
