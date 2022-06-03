@@ -31,31 +31,26 @@
 <img alt="Git" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </p>
 
- <h3 align="left">Web Development:</h3>
+<h3 align="left">Web Development:</h3>
+    
 <p align="center">
 <img alt="HTML" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  
 <img alt="CSS" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-
 <img alt="Bootstrap" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  
-<img alt="JS" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-          
+<img alt="JS" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   
 <img alt="Python" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  
 <img alt="Django" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-
 <img alt="Postgres" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-          
-     
-<img alt="Heroku" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-                     
+<img alt="Heroku" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" /></p>
  
-          
- 
-</p>
+<h3 align="left">Designing Tools:</h3>
+    
+<p align="center">
+<img alt="Canva" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+<img alt="GIMP" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+<img alt="Photoshop" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></p>
+    
 <div align="center"> <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadzhiev777&show_icons=true&locale=en&layout=compact" alt="hadzhiev777" /></p></div>
-
 
 ### <h3 align="center">:mailbox_with_mail: Connect with me:</h3>
 <p align="left">
