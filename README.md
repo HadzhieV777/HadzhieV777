@@ -24,12 +24,13 @@
          
 <h3 align="left">Environments:</h3>
   
- <p align="left">
+ <p align="center">
  <img alt="VSCode" width="40px" height="40px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
 <img alt="Vim" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img alt="Ubuntu" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img alt="Git" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    
+ </p>
+  <p align="center">
  <h3 align="left">Web Development:</h3>
 
 <img alt="HTML" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
