@@ -1,5 +1,5 @@
 
-<h2 align="left">Hello world! I'm Rado&nbsp;</h2>
+<h2 align="center">Hello world! I'm Rado&nbsp;</h2>
 <p>
 <!--   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> -->
 <!--   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"> -->
@@ -19,7 +19,7 @@
 - :heart_eyes: Interested in **Digital Marketing, E-commerce, Real Estates**
 
 
-### <h3 align="center"><img src="https://e1.pngegg.com/pngimages/38/630/png-clipart-minecraft-diamond-pickaxe-minecraft-diamond-axe-thumbnail.png" width="25"/>  Languages and Tools:</h3>     
+<h3 align="center"><img src="https://e1.pngegg.com/pngimages/38/630/png-clipart-minecraft-diamond-pickaxe-minecraft-diamond-axe-thumbnail.png" width="25"/>  Languages and Tools:</h3>     
     
          
  <p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
