@@ -1,5 +1,5 @@
 
-<h2 align="left">Hello world! I'm Rado&nbsp;</h2>
+<h2 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">Hello world! I'm Rado&nbsp;</h2>
 <p>
 <!--   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> -->
 <!--   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"> -->
