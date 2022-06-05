@@ -17,9 +17,8 @@
  - :eyes: Looking to collaborate on **Web App Projects**
 
 - :heart_eyes: Interested in **Digital Marketing, E-commerce, Real Estates**
-
-https://www.clipartmax.com/png/small/444-4445787_minecraft-diamond-pickaxe-by-angelkitty17-minecraft-sword-and-pickaxe-crossed.png
-<h2 align="center"><img src="[https://e1.pngegg.com/pngimages/38/630/png-clipart-minecraft-diamond-pickaxe-minecraft-diamond-axe-thumbnail.png](https://www.clipartmax.com/png/small/444-4445787_minecraft-diamond-pickaxe-by-angelkitty17-minecraft-sword-and-pickaxe-crossed.png)" width="25"/>  Languages and Tools <img src="[https://e1.pngegg.com/pngimages/38/630/png-clipart-minecraft-diamond-pickaxe-minecraft-diamond-axe-thumbnail.png](https://www.clipartmax.com/png/small/444-4445787_minecraft-diamond-pickaxe-by-angelkitty17-minecraft-sword-and-pickaxe-crossed.png)" width="25"/> </h2>     
+    
+<h2 align="center"><img src="https://www.clipartmax.com/png/small/444-4445787_minecraft-diamond-pickaxe-by-angelkitty17-minecraft-sword-and-pickaxe-crossed.png" width="25"/>  Languages and Tools <img src="https://www.clipartmax.com/png/small/444-4445787_minecraft-diamond-pickaxe-by-angelkitty17-minecraft-sword-and-pickaxe-crossed.png" width="25"/> </h2>     
 <!--     
          https://e1.pngegg.com/pngimages/38/630/png-clipart-minecraft-diamond-pickaxe-minecraft-diamond-axe-thumbnail.png -->
 <h3 align="left">Environments:</h3>
