@@ -18,7 +18,7 @@
 
 - :heart_eyes: Interested in **Digital Marketing, E-commerce, Real Estates**
     
-<h2 align="center">:hammer_and_pick: Languages and Tools :pick:</h2>     
+<h2 align="center">:pick: Languages and Tools :hammer_and_pick:</h2>     
 <!--     
          https://e1.pngegg.com/pngimages/38/630/png-clipart-minecraft-diamond-pickaxe-minecraft-diamond-axe-thumbnail.png -->
 <h3 align="left">Environments:</h3>
