@@ -12,7 +12,7 @@
    
 - :man_technologist: I`m currently a student at **SoftUni**
     
- - :trophy: Next step **Python Full Stack Web Developer**
+ - :trophy: Next step **Full Stack Web Developer**
     
  - :eyes: Looking to collaborate on **Web App Projects**
 
