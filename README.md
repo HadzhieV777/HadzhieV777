@@ -49,10 +49,12 @@
 <img alt="GIMP" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 <img alt="Photoshop" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></p>
     
-<div align="center"> <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadzhiev777&show_icons=true&locale=en&layout=compact" alt="hadzhiev777" />
+<!-- <div align="center"> <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadzhiev777&show_icons=true&locale=en&layout=compact" alt="hadzhiev777" />
 
 [![Hadzhiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadzhiev777)](https://github.com/hadzhiev777/github-readme-stats)</p></div>
-
+ -->
+    
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadzhiev777&show_icons=true&locale=en" alt="hadzhiev777" /></p>
 ### <h3 align="center">:mailbox_with_mail: Connect with me:</h3>
 <p align="left">
 </p>
