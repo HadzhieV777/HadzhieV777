@@ -50,8 +50,7 @@
 <img alt="Photoshop" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></p>
     
     <div align="center">
-<!--  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadzhiev777&show_icons=true&locale=en&layout=compact" alt="hadzhiev777" /> -->
-[![Hadzhiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadzhiev777)](https://github.com/hadzhiev777/github-readme-stats)</p></div>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadzhiev777&show_icons=true&locale=en&layout=compact" alt="hadzhiev777" /> </div>
 
 
 
