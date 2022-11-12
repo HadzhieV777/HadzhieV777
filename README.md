@@ -49,9 +49,6 @@
     
 <div align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadzhiev777&show_icons=true&locale=en&layout=compact" alt="hadzhiev777" /> </div>
     
-    
-    <div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadzhiev777&show_icons=true&locale=en&layout=compact" alt="hadzhiev777" /></p> </div>
-
 
 ### <h3 align="center">:mailbox_with_mail: Connect with me:</h3>
 <p align="left">
