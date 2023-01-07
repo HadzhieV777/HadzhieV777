@@ -1,4 +1,4 @@
-## Hello World! I'am Radoslav Hadzhiev
+##  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> Hello World! I'am Radoslav Hadzhiev
 
 <p>
 <!--   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> -->
