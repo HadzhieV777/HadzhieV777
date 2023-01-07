@@ -52,12 +52,13 @@
 
     
 <h3 align="left">Learning:</h3>
+    <p align="center">
      <img alt="Node" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img alt="Redux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img alt="Mongo" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img src="./assets/firebase.svg" height="50" width="60" alt="firebase">
   <img alt="Express" height="50" width="60" src="https://icongr.am/devicon/express-original.svg?size=128&color=83cd29">
-    
+    </p>
 <div align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadzhiev777&show_icons=true&locale=en&layout=compact" alt="hadzhiev777" /> </div>
     
 
