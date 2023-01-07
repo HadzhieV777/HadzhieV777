@@ -61,7 +61,7 @@
   <img height="50" width="60" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img alt="Express" height="50" width="60" src="https://icongr.am/devicon/express-original.svg?size=128&color=83cd29">
   <img alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="Vagrant" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
+  <img alt="Vagrant" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
    
     </p>
     
