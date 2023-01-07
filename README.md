@@ -56,7 +56,7 @@
      <img alt="Node" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img alt="Redux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img alt="Mongo" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img src="./assets/firebase.svg" height="50" width="60" alt="firebase">
+  <img height="50" width="60" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img alt="Express" height="50" width="60" src="https://icongr.am/devicon/express-original.svg?size=128&color=83cd29">
       <img alt="Postgres" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     </p>
