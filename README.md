@@ -15,7 +15,7 @@
     
  - :eyes: Looking to collaborate on **Web App Projects**
 
-- :heart_eyes: Interested in **Digital Marketing, E-commerce, Real Estates**
+- :heart_eyes: Interested in **Software Solutions, Digital Marketing, E-commerce, Real Estates**
     
 <h2 align="center">:pick: Languages and Tools :hammer_and_pick:</h2>     
 <!--     
