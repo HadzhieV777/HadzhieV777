@@ -62,8 +62,7 @@
   <img alt="Express" height="50" width="60" src="https://icongr.am/devicon/express-original.svg?size=128&color=83cd29">
   <img alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="Vagrant" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
-   
-    </p>
+   </p>
     
     
 <div align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadzhiev777&show_icons=true&locale=en&layout=compact" alt="hadzhiev777" /> </div>
