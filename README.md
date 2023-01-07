@@ -5,21 +5,16 @@
 <!--   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"> -->
   <em>
  I am highly motivated person,always willing to learn new skills. Seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions. 
-<!-- :man_technologist:I`m currently student in Softni. 
-:trophy:Next step Python Full Stack Web Developer.
-:heart_eyes: Interested in digital marketing, e-commerce. -->
-   
+- :man_technologist:I`m currently student in Softni. 
+- :trophy:Next step Python Full Stack Web Developer.
+- :heart_eyes: Interested in digital marketing, e-commerce.
 - :man_technologist: I`m currently a student at **SoftUni**
-    
- - :trophy: Aiming to become a excellent **Full Stack Web Developer**
-    
- - :eyes: Looking to collaborate on **Web App Projects**
-
+- :trophy: Aiming to become a excellent **Full Stack Web Developer**
+- :eyes: Looking to collaborate on **Web App Projects**
 - :heart_eyes: Interested in **Software Solutions, Digital Marketing, E-commerce, Real Estates**
     
 <h2 align="center">:pick: Languages and Tools :hammer_and_pick:</h2>     
-<!--     
-         https://e1.pngegg.com/pngimages/38/630/png-clipart-minecraft-diamond-pickaxe-minecraft-diamond-axe-thumbnail.png -->
+<!--  https://e1.pngegg.com/pngimages/38/630/png-clipart-minecraft-diamond-pickaxe-minecraft-diamond-axe-thumbnail.png -->
 <h3 align="left">Environments:</h3>
   
  <p align="center">
