@@ -6,7 +6,6 @@
   <em>
  I am highly motivated person,always willing to learn new skills. Seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions. 
 
-- :man_technologist: I`m currently a student at **SoftUni**
 - :trophy: Aiming to become a excellent **Full Stack Web Developer**
 - :eyes: Looking to collaborate on **Web App Projects**
 - :heart_eyes: Interested in **Software Solutions, Digital Marketing, E-commerce, Real Estates**
