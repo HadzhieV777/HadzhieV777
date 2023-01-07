@@ -64,14 +64,15 @@
 ### <h3 align="center">:mailbox_with_mail: Connect with me:</h3>
 <p align="left">
 </p>
-   
-   <div id="header" align="center"><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
 
 <p align="center">
-<a href="https://linkedin.com/in/radoslav-hadzhiev-077ba5205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radoslav-hadzhiev-077ba5205" height="30" width="40" /></a>
-<a href="https://fb.com/rado.play" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rado.play" height="30" width="40" /></a>
+ <a href = "mailto:r.hadzhiev4277@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/radoslav-hadzhiev-077ba5205/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
 </p>
-     <p align="center">And my email: <b>r.hadzhiev4277@gmail.com</b></p>
                </div>
 
 <!-- **HadzhieV777/HadzhieV777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
