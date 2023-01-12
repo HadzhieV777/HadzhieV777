@@ -58,7 +58,7 @@
     
     
 <div align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadzhiev777&show_icons=true&locale=en&layout=compact" alt="hadzhiev777" /> </div>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=Hadzhiev777&theme=radical)](https://git.io/streak-stats)
+    <div align="center"><p><img src="https://streak-stats.demolab.com?user=Hadzhiev777&theme=radical)](https://git.io/streak-stats" alt="hadzhiev777" /> </div>
     
 
 ### <h3 align="center">:mailbox_with_mail: Connect with me:</h3>
