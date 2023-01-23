@@ -7,7 +7,7 @@
  I am highly motivated person,always willing to learn new skills. Seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions. 
 
 - :trophy: Aiming to become a excellent **Full Stack Web Developer**
-- :eyes: Looking to collaborate on **Web App Projects**
+<!-- - :eyes: Looking to collaborate on **Web App Projects** -->
 - :heart_eyes: Interested in **Software Solutions, Digital Marketing, E-commerce, Real Estates**
     
 <h2 align="center">:pick: Languages and Tools :hammer_and_pick:</h2>     
