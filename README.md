@@ -9,7 +9,7 @@
 
 - :trophy: Aiming to become a excellent **Full Stack Web Developer**
 <!-- - :eyes: Looking to collaborate on **Web App Projects** -->
-- :heart_eyes: Interested in **Software Solutions, Digital Marketing, E-commerce, Real Estates**
+- :heart_eyes: Interested in **Software Solutions, Digital Marketing, Real Estates**
     
 <h2 align="center">:pick: Languages and Tools :hammer_and_pick:</h2>     
 <!--  https://e1.pngegg.com/pngimages/38/630/png-clipart-minecraft-diamond-pickaxe-minecraft-diamond-axe-thumbnail.png -->
