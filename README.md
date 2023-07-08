@@ -16,7 +16,7 @@
 <h3 align="left">Environments:</h3>
   
  <p align="center">
- <img alt="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
+ <img alt="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets/vscode/vscode-original.svg"/>
 <img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </p>
