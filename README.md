@@ -14,12 +14,13 @@
 <h2 align="center">:pick: Languages and Tools :hammer_and_pick:</h2>     
 <!--  https://e1.pngegg.com/pngimages/38/630/png-clipart-minecraft-diamond-pickaxe-minecraft-diamond-axe-thumbnail.png -->
 <h3 align="left">Environments:</h3>
-  
+
+  <!-- 
  <p align="center">
  <img alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- </p>
+ </p> -->
 
 <h3 align="left">Web Development:</h3>
     
@@ -44,7 +45,7 @@
 <div align="center" >
  <div  align="left" >
    <span><h3>Designing Tools:</h3></span>
-   <p align="center">
+   <p >
  <img alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -53,7 +54,7 @@
  <div  align="right" >
   <span><h3>Designing Tools:</h3></span>
     
-<p align="center">
+<p >
 <img alt="Canva" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <img alt="GIMP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 <img alt="Photoshop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
