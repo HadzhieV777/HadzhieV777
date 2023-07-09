@@ -84,5 +84,7 @@
   <img height="160" alt="TonyTech's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HadzhieV777&layout=compact&hide_border=true&bg_color=ffffff00&title_color=FF6D28&text_color=A8E890" />
 </div>
 
+![](https://stats.justsong.cn/api/github?username=HadzhieV777)![](https://stats.justsong.cn/api/zhihu?username=HadzhieV777)
+
 
 <!-- **HadzhieV777/HadzhieV777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
