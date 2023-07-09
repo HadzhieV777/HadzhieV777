@@ -78,4 +78,16 @@
 </p>
     </div>
 
+<div id="badges" align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HadzhieV777&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
+</div>
+
+<hr/>
+<div>
+  <img height="160" align="left" alt="TonyTech's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HadzhieV777&show_icons=true&hide_border=true&title_color=FF6D28&text_color=A8E890&border_color=0c1a25&theme=transparent" />
+  <img height="160" alt="TonyTech's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HadzhieV777&layout=compact&hide_border=true&bg_color=ffffff00&title_color=FF6D28&text_color=A8E890" />
+</div>
+
+
 <!-- **HadzhieV777/HadzhieV777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
