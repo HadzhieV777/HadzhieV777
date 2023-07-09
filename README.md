@@ -43,7 +43,7 @@
 <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </p>
  </div>
- <div  align="right" width="450">
+ <div  width="450">
   
   <span><h3>Designing Tools:</h3></span>
 <p >
