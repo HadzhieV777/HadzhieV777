@@ -13,9 +13,10 @@
     
 <h2 align="center">:pick: Languages and Tools :hammer_and_pick:</h2>     
 <!--  https://e1.pngegg.com/pngimages/38/630/png-clipart-minecraft-diamond-pickaxe-minecraft-diamond-axe-thumbnail.png -->
-<h3 align="left">Environments:</h3>
 
   <!-- 
+<h3 align="left">Environments:</h3>
+
  <p align="center">
  <img alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -43,15 +44,15 @@
 </p>
  
 <div align="center" >
- <div  align="left" >
-   <span><h3>Designing Tools:</h3></span>
+ <div  align="left" width="450">
+   <span><h3>Environments:</h3></span>
    <p >
  <img alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </p>
  </div>
- <div  align="right" >
+ <div  align="right" width="450">
   <span><h3>Designing Tools:</h3></span>
     
 <p >
