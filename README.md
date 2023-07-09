@@ -12,7 +12,6 @@
 - :heart_eyes: Interested in **Software Solutions, Digital Marketing, Real Estates**
     
 <h2 align="center">:pick: Languages and Tools :hammer_and_pick:</h2>     
-<hr/>
 
 <h3 align="left">Web Development:</h3>
     
@@ -35,14 +34,14 @@
 </p>
  
 <p align="center" >
- <div  align="right" >
+ <div  align="center" >
    <h3>Environments:</h3>
    <img alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> 
    <img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
    <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></p>
  </div>
  
- <div align="left">
+ <div align="center">
     <h3>Learning:</h3>
   <img alt="Gradle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
   <img alt="Java" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -51,7 +50,7 @@
   <img alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
  </div>
 
- <div align="right">
+ <div align="center">
   <h3>Designing Tools:</h3>
     <img alt="Canva" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
     <img alt="GIMP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
