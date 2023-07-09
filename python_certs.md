@@ -1,3 +1,8 @@
 <div align="center" display="flex">
-    <img src="./certificates/Programming Fundamentals with Python - May 2021 - Certificate.jpeg" alt="Python_basics" width="244" height="350">
+    <img src="./certificates/python/01.fundamentals.jpeg" alt="Python_basics" width="244" height="350">
+     <img src="./certificates/python/02.oop.jpeg" alt="Python_basics" width="244" height="350">
+     <img src="./certificates/python/03.web-basics.jpeg" alt="Python_basics" width="244" height="350">
+     <img src="./certificates/python/04.web-framework.jpeg" alt="Python_basics" width="244" height="350">
+    <img src="./certificates/python/05.dev.jpeg" alt="Python_basics" width="244" height="350">
+     <img src="./certificates/python/06.full-stack.jpeg" alt="Python_basics" width="244" height="350">
 </div>
