@@ -72,6 +72,7 @@
 </p>
     </div>
 
+<hr/>
 <div id="badges" align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HadzhieV777&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
