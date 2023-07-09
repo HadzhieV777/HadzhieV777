@@ -43,7 +43,7 @@
 <img alt="Firebase"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 </p>
  
-<div align="center" >
+<p align="center" >
  <div  align="left" width="450">
    <span><h3>Environments:</h3></span>
    <p >
@@ -61,7 +61,7 @@
 <img alt="Photoshop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></p>
  </div>
-</div>
+</p>
 
     
 <h3 align="left">Learning:</h3>
