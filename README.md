@@ -81,9 +81,9 @@
 </div>
 
 <hr/>
-<div>
-  <img height="160" align="center" alt="HadzhieV's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HadzhieV777&show_icons=true&hide_border=true&title_color=FF6D28&text_color=A8E890&border_color=0c1a25&theme=transparent" />
-  <img height="160"  align="center"  alt="HadzhieV's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HadzhieV777&layout=compact&hide_border=true&bg_color=ffffff00&title_color=FF6D28&text_color=A8E890" />
+<div align="center">
+  <img height="160" align="left" alt="HadzhieV's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HadzhieV777&show_icons=true&hide_border=true&title_color=FF6D28&text_color=A8E890&border_color=0c1a25&theme=transparent" />
+  <img height="160"  alt="HadzhieV's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HadzhieV777&layout=compact&hide_border=true&bg_color=ffffff00&title_color=FF6D28&text_color=A8E890" />
 </div>
 
 <!-- <hr/>
