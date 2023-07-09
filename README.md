@@ -36,23 +36,22 @@
  
 <p align="center" >
  <div  align="left" width="450">
-   <span><h3>Environments:</h3></span>
+   <h3>Environments:</h3>
    <p > <img alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> <img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></p>
  </div>
- <div align="right" width="450">
+ <div align="right">
 
- <h3 align="left">Learning:</h3>
-    <p>
+ <h3>Learning:</h3>
+   
   <img alt="Gradle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
   <img alt="Java" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="GraphQl" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   <img alt="Solidity" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" />
   <img alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-     
-   </p>
-  
-  <span><h3>Designing Tools:</h3></span>
-<p >
+  </div>
+
+  <div align="right">
+<h3>Designing Tools:</h3>
 <img alt="Canva" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <img alt="GIMP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 <img alt="Photoshop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
